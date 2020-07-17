@@ -3,7 +3,7 @@ Reference : DLithe
 Website : www.dlithe.com
 Project done under the guidance of : DLithe
 
-Done by: Jovita Andrews
+Done by: Prathika S Shetty
 
 ChatBot analysis using machine learning models
 
